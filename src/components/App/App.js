@@ -1,7 +1,9 @@
 import logo from './logo.svg';
 import './App.css';
+import axios from 'axios';
+import { Button } from '@mui/material';
 
-function App() {
+export const App = () => {
   return (
     <div className="App">
       <header className="App-header">
@@ -20,6 +22,4 @@ function App() {
       </header>
     </div>
   );
-}
-
-export default App;
+};
