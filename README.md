@@ -1,6 +1,6 @@
 # Phone Input
 
-## American phone input style: (555) 555-5555
+### React input component for American phone numbers: (555) 555-5555
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
